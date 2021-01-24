@@ -3,7 +3,7 @@ import 'package:page_interface/Provider/appprovider.dart';
 import 'package:page_interface/custom_icons/kebab_menu_icons.dart';
 import 'package:page_interface/widget/appbody.dart';
 import 'package:provider/provider.dart';
-import 'package:carousel_slider/carousel_slider.dart';
+//import 'package:carousel_slider/carousel_slider.dart';
 
 class MainScreen extends StatefulWidget {
   @override
